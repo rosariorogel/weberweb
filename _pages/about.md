@@ -2,6 +2,7 @@
 layout: page
 title: About this website
 subtitle: The where, why & what
+permalink: about
 ---
 
 This is a website devoted to Marianne and Max Weber, class projects, 

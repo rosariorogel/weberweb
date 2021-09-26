@@ -232,7 +232,7 @@ exclude:
   - screenshot.png
   - docs/
 
-include: ["_pages"]
+include: ['_pages']
 
 plugins:
   - jekyll-paginate
