@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+# URL
+basurl: http://brianrosenblum.net/
+
 # Name of website
 title: "Marianne & Max Weber: A Digital Study"
 
