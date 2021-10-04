@@ -12,7 +12,7 @@ This is a website devoted to Marianne and Max Weber, class projects,
 <br/>
 
 <img src="{{ site.baseurl }}/assets/img/marianne-square.jpg" style="float: left; padding-right: 20px;"> **Marianne Weber** (1870-1954) was Max Weber's wife. After his death she tunneled her physical and psychological resources into preparing ten volumes of her husband's writing for publication.[14] In 1924, she received an honorary doctoral degree from the University of Heidelberg, both for her work in editing and publishing Max's work as well as for her own scholarship. Between 1923 and 1926, Weber worked on Max Weber: Ein Lebensbild ("Max Weber: A Biography"), which was published in 1926.[15] Also in 1926, she re-established her weekly salon, and entered into a phase of public speaking in which she spoke to audiences of up to 5,000.
-</div>
+
 
 **About the Class:**
 
