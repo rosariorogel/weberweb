@@ -16,7 +16,7 @@ Hello!!
 
 This is a link to [Jekyll](https://jekyllrb.com/)
 
-![here is an image of max](/assets/img/max-square.jpg)
+![here is an image of max](./assets/img/max-square.jpg)
 
 
 ## Marianne
