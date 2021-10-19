@@ -11,10 +11,10 @@ Hello!!
 
 #### Max
 
-<img src="{{ site.baseurl }}/assets/img/max-square.jpg" style="float: left; padding-right: 20px;"> **Max Weber** (1864-1920) was a German ***sociologist, historian, jurist, and political economist***, who is regarded as among the most important theorists of the development of modern Western society. His ideas profoundly influence social theory and research. Despite being recognized as one of the fathers of sociology along with Auguste Comte, Karl Marx, and Émile Durkheim, Weber saw himself not as a sociologist but as a historian.  
+<img src="{{ site.baseurl }}/assets/img/max-square.jpg" style="float: left; padding-right: 20px;"> **Max Weber** (1864-1920) was a German ***sociologist, historian, jurist, and political economist***, who is regarded as [among the most important theorists of the development of modern Western society](https://en.wikipedia.org/wiki/Max_Weber). His ideas profoundly influence social theory and research. Despite being recognized as one of the fathers of sociology along with Auguste Comte, Karl Marx, and Émile Durkheim, Weber saw himself not as a sociologist but as a historian.  
 <br/>
 
-This is a link to [Jekyll](https://jekyllrb.com/).
+This is a link to [Jekyll](https://jekyllrb.com/)
 
 
 ## Marianne
