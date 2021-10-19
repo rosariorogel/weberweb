@@ -5,6 +5,8 @@ subtitle: The where, why & what
 permalink: about
 ---
 
+Hello!!
+
 This is a website devoted to Marianne and Max Weber, class projects, 
 
 
