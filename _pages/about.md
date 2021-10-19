@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this website
+title: Hello
 subtitle: The where, why & what
 permalink: about
 ---
