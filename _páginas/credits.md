@@ -5,6 +5,7 @@ subtitle: Who contributed to this site
 permalink: credits
 ---
 
+![Rosario Foto](/assets/img/FotoRosario.jpg)
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
