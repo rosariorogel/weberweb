@@ -9,13 +9,13 @@
 
   
 
-  <title>Credits</title>
+  <title>Alan Colin</title>
 
   
   <meta name="author" content="Class Details Here">
   
 
-  <meta name="description" content="Who contributed to this site">
+  <meta name="description" content="Assistent">
 
   
 
@@ -74,8 +74,8 @@
 
   
   <meta property="og:site_name" content="Marianne & Max Weber: A Digital Study">
-  <meta property="og:title" content="Credits">
-  <meta property="og:description" content="Who contributed to this site">
+  <meta property="og:title" content="Alan Colin">
+  <meta property="og:description" content="Assistent">
 
   
   <meta property="og:image" content="http://localhost:4000/assets/img/max-marianne.jpg">
@@ -83,8 +83,8 @@
 
   
   <meta property="og:type" content="website">
-  <meta property="og:url" content="http://localhost:4000/credits">
-  <link rel="canonical" href="http://localhost:4000/credits">
+  <meta property="og:url" content="http://localhost:4000/alancolin">
+  <link rel="canonical" href="http://localhost:4000/alancolin">
   
 
   
@@ -93,8 +93,8 @@
   <meta name="twitter:site" content="@">
   <meta name="twitter:creator" content="@">
 
-  <meta property="twitter:title" content="Credits">
-  <meta property="twitter:description" content="Who contributed to this site">
+  <meta property="twitter:title" content="Alan Colin">
+  <meta property="twitter:description" content="Assistent">
 
   
   <meta name="twitter:image" content="http://localhost:4000/assets/img/max-marianne.jpg">
@@ -173,11 +173,11 @@
     <div class="row">
       <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         <div class="page-heading">
-          <h1>Credits</h1>
+          <h1>Alan Colin</h1>
           
             
               <hr class="small">
-              <span class="page-subheading">Who contributed to this site</span>
+              <span class="page-subheading">Assistent</span>
             
           
 
@@ -198,17 +198,11 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <p><img src="../assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;" />
-<strong>Rosario Rogel-Salazar</strong> Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la <a href="https://www.uaemex.mx/">Universidad Autónoma del Estado de México</a>.</p>
-<div style="clear: both;"></div>
+      # Student
 
-<p><img src="../assets/img/Alan.jpg" style="float:left;width:200px;padding-right:20px;" />
-<strong>Alan Flores Arroyo</strong> Estudiante de la Facult de Ciencias Politicas y Sociales de la <a href="https://www.uaemex.mx/">Universidad Autonoma del Estado de Mexico</a> Licenciatura en Sociologia.</p>
-<div style="clear: both;"></div>
+![Foto Alan Colin](./assets/img/FotoAlanColin.jpg)
 
-<p><img src="../assets/img/AndreaFernanda.jpeg" style="float:left;width:200px;padding-right:20px;" />
-<strong>Andrea Fernanda Hernández Jiménez</strong> Estudiante de Sociología en la Facultad de Ciencias Políticas y Sociales de la <a href="https://www.uaemex.mx/">Universidad Autónoma del Estado de México</a>.</p>
-
+**Alan Colín Arce**, estudiante de Comuniación de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México. Mis intereses profesionales se relacionan con la inbestigación digital.
 
 
       
