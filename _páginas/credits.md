@@ -21,3 +21,5 @@ permalink: credits
 
 <img src="../assets/img/Ismel.jpg" style="float:left;width:200px;padding-right:20px;">
 **Brayan Ismael Flores Ortega**, estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la Universidad Autónoma del Estado de México. Mis intereses de investigación están relacionados con movimientos sociales a nivel micro y la Ciber-sociología. En mi futuro desarrollo profesional me gustaría relacionarme con el trabajo de investigación a la Sociología informática.
+
+(test)
