@@ -24,6 +24,6 @@ permalink: credits
 **Lizbeth Aguilar Hernandez** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}assets/img/164652511_3041076646178953_4642907886204398265_n.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/164652511_3041076646178953_4642907886204398265_n.jpg" style="float:left;width:200px;padding-right:20px;">
 **Regina Elizabeth Montalvo González** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
