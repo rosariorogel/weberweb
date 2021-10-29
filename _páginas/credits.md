@@ -39,3 +39,7 @@ permalink: credits
 <img src="{{ site.baseurl}}/assets/img/LizethRobles..jpeg" style="float:left;width:200px;padding-right:20px;">
 **Lizeth Robles Benitez** Estudiante de la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) Licenciatura en Sociologia. Interesada en derechos humanos, movimientos sociales, multiculturalidad y políticas públicas.
 <div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/AlexiaChacon.jpg" style="float:left;width:200px;padding-right:20px;"> 
+**Alexia Chacon Garcia** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+<div style="clear: both;"></div> 
