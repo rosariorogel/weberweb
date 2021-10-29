@@ -44,6 +44,6 @@ permalink: credits
 **Alexia Chacon Garcia** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
 <div style="clear: both;"></div> 
 
-<img src="{{ site.baseurl }}/assets/img/ Oscar.G.L.jpg " style="float:left;width:200px;padding-right:20px;"> 
-**Oscar Geovanni González López ** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+<img src="{{ site.baseurl }}/assets/img/Oscar.G.L.jpg" style="float:left;width:200px;padding-right:20px;"> 
+**Oscar Geovanni González López** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
 <div style="clear: both;"></div> 
