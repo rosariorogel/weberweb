@@ -56,8 +56,7 @@ permalink: credits
 
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaMonserrat.jpg" style="float:left;width:200px;padding-right:20px;"> 
-**Andrea Monserrat Alvarez Robles ** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+**Andrea Monserrat Alvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
 <div style="clear: both;"></div>
 
- 
  
