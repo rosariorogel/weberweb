@@ -32,7 +32,7 @@ permalink: credits
 **Paola Martínez Benítez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México.
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/LuisRomero.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoLuisRomero.jpg" style="float:left;width:200px;padding-right:20px;">
 **Luis Fernando Romero Jarra** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México.
 <div style="clear: both;"></div>
 
