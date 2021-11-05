@@ -62,3 +62,6 @@ permalink: credits
 **Tania Ivonne Laos Loyola** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) 
 <div style="clear: both;"></div>
  
+ <img src="{{ site.baseurl}}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
+**Zepeda Franco Kay** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) 
+<div style="clear: both;"></div>
