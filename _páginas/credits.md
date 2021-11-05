@@ -32,7 +32,7 @@ permalink: credits
 **Paola Martínez Benítez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México.
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoLuisRomero.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/LuisRomero.jpg" style="float:left;width:200px;padding-right:20px;">
 **Luis Fernando Romero Jarra** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México.
 <div style="clear: both;"></div>
 
@@ -59,7 +59,7 @@ permalink: credits
 **Andrea Monserrat Alvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl}}/assets/img/TaniaIvonne.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl}}/assets/img/TaniaIvonneLaos.jpg" style="float:left;width:200px;padding-right:20px;">
 **Tania Ivonne Laos Loyola** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) 
 <div style="clear: both;"></div>
  
