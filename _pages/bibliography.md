@@ -6,3 +6,9 @@ permalink: bibliography
 ---
 
 Para acceder a la colección de Wakelet, da clic [aquí](https://wakelet.com/wake/Yxk0TreB1s0gFxpdKWhbQ)
+
+<html>
+ <body>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/69VF7mT4nRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </body>
+</html>
