@@ -9,8 +9,12 @@ permalink: credits
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlanColin.jpg" style="float:left;width:200px;padding-right:20px;">
+**Alan Colín-Arce** Estudiante de noveno semestre de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis temas de interés son la bibliometría, la ciencia abierta y las humanidades digitales.
+<div style="clear: both;"></div>
+
 <img src="{{ site.baseurl}}/assets/img/AlanG.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Flores Arroyo** Estudiante de la Facult de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) Licenciatura en Sociologia.
+**Alan Flores Arroyo** Estudiante de la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) Licenciatura en Sociologia.
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl}}/assets/img/FotoAndreaFernanda.jpeg" style="float:left;width:200px;padding-right:20px;">
