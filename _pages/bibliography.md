@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bibliography
-subtitle: Group 1
+title: Bibliografía
+subtitle: Marianne & Max Weber
 permalink: bibliography
 ---
 

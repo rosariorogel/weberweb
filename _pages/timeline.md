@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Timeline
-subtitle: Group 2
+title: Líneas de Tiempo
+subtitle: Momentos relevantes en la vida de Max & Marianne Weber
 permalink: timeline
 ---
 

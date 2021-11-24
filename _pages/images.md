@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Philosophy
-subtitle: Group 3
-permalink: philosophy
+title: Infografías
+subtitle: Propuesta y contribuciones teóricas
+permalink: images
 ---
 
 #### ¿Por qué Max Weber es un clásico?

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Credits
-subtitle: Who contributed to this site
+title: Créditos
+subtitle: Las personas que contribuyen en este sitio
 permalink: credits
 ---
 
@@ -72,4 +72,8 @@ permalink: credits
 
 <img src="{{ site.baseurl }}/assets/img/Ricardo_Bueno1.jpg" style="float:left;width:200px;padding-right:20px;">
 **Ricardo Bueno Jaramillo** Estudiante de Letras Latinoamericanas en la Facultad Humanidades de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses son la crítica lietararia, la investigación y la narrativa.
+<div style="clear: both;"></div>
+
+<img src="{{ site.baseurl }}/assets/img/Brian.jpg" style="float:left;width:200px;padding-right:20px;">
+**Brian Rosenblum** Digital Humanities Librarian, University of Kansas Libraries and Co-Director, Institute for Digital Research in the Humanities.
 <div style="clear: both;"></div>
