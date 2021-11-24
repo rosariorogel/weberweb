@@ -5,7 +5,25 @@ subtitle: The where, why & what
 permalink: about
 ---
 
-Hello!!
+# Este es un sitio web dedicado a Marianne y Max Weber
+
+Todo Weber en Web es un proyecto desarrollado por estudiantes de sociología de la Universidad Autónoma del Estado de México. El objetivo del proyecto es recopilar información de calidad disponible en Internet acerca de [Max Weber](https://es.wikipedia.org/wiki/Max_Weber) y [Marianne Weber](https://es.wikipedia.org/wiki/Marianne_Weber), sociólogos alemanes con una gran influencia en la disciplina. Este trabajo forma parte del curso Fundadores de la Sociología: Max Weber, impartido en la Facultad de Ciencias Políticas y Sociales.  
+
+El sitio web está conformado por 5 secciones relacionadas a la obra de Max y Marianne Weber: 
+
+*La sección 1 contiene una bibliografía selecta de textos escritos por estos autores y de otros textos académicos que analizan la amplia obra del matrimonio Weber.  
+*La sección 2 se conforma por dos líneas del tiempo acerca de la vida de Max y Marianne Weber. 
+*La sección 3 presenta infografías que explican, entre otros temas, las razones por las que Max Weber es un clásico de la sociología y las aportaciones de Marianne Weber a la teoría feminista. 
+*La sección 4 contiene explicaciones gráficas de los principales conceptos de la teoría de Max Weber, tales como: poder, dominación, burocracia, tipos ideales y sociología comprensiva. 
+*La sección 5 explica los principales vínculos que tuvo la propuesta weberiana con otros autores y cuál fue la influencia de las ideas de Max Weber en ellos. 
+
+Este sitio es un recurso educativo abierto. Por lo tanto, todos los contenidos tienen una licencia abierta CC-BY, que permite la redistribución, modificación y adaptación de toda la información disponible en el sitio, siempre que se mantenga la atribución al proyecto. 
+
+¡Esperamos que este sitio te sea de utilidad! 
+
+
+
+
 
 # This is a website devoted to Marianne and Max Weber
 
