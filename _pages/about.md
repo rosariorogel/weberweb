@@ -11,11 +11,11 @@ Todo Weber en Web es un proyecto desarrollado por estudiantes de sociología de 
 
 El sitio web está conformado por 5 secciones relacionadas a la obra de Max y Marianne Weber: 
 
-*La sección 1 contiene una bibliografía selecta de textos escritos por estos autores y de otros textos académicos que analizan la amplia obra del matrimonio Weber.  
-*La sección 2 se conforma por dos líneas del tiempo acerca de la vida de Max y Marianne Weber. 
-*La sección 3 presenta infografías que explican, entre otros temas, las razones por las que Max Weber es un clásico de la sociología y las aportaciones de Marianne Weber a la teoría feminista. 
-*La sección 4 contiene explicaciones gráficas de los principales conceptos de la teoría de Max Weber, tales como: poder, dominación, burocracia, tipos ideales y sociología comprensiva. 
-*La sección 5 explica los principales vínculos que tuvo la propuesta weberiana con otros autores y cuál fue la influencia de las ideas de Max Weber en ellos. 
+* La sección 1 contiene una bibliografía selecta de textos escritos por estos autores y de otros textos académicos que analizan la amplia obra del matrimonio Weber.  
+* La sección 2 se conforma por dos líneas del tiempo acerca de la vida de Max y Marianne Weber. 
+* La sección 3 presenta infografías que explican, entre otros temas, las razones por las que Max Weber es un clásico de la sociología y las aportaciones de Marianne Weber a la teoría feminista. 
+* La sección 4 contiene explicaciones gráficas de los principales conceptos de la teoría de Max Weber, tales como: poder, dominación, burocracia, tipos ideales y sociología comprensiva. 
+* La sección 5 explica los principales vínculos que tuvo la propuesta weberiana con otros autores y cuál fue la influencia de las ideas de Max Weber en ellos. 
 
 Este sitio es un recurso educativo abierto. Por lo tanto, todos los contenidos tienen una licencia abierta CC-BY, que permite la redistribución, modificación y adaptación de toda la información disponible en el sitio, siempre que se mantenga la atribución al proyecto. 
 
