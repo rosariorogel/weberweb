@@ -29,4 +29,4 @@ Este sitio es un recurso educativo abierto. Por lo tanto, todos los contenidos t
 
 <img src="{{ site.baseurl }}/assets/img/marianne-square.jpg" style="float: left; padding-right: 20px;"> **Marianne Weber** (1870-1954) (Marianne Schnitger) socióloga, historiadora del derecho, política y feminista alemana. Fue esposa de Max Weber, tras la prematura muerte de él, ella se dedicó a la preparación de diez volúmenes de los escritos de su marido para su publicación. En 1924, recibió Doctorado Honoris Causa por la Universidad de Heidelberg, tanto por su labor de edición y publicación de la obra de Max, como por sus propias aportaciones intelectuales. Entre 1923 y 1926, Weber trabajó en Max Weber: Ein Lebensbild ("Max Weber: una biografía"), que se publicó en 1926. En 1926, restableció su salón semanal y brindó diversas conferencias.
 
-
+<-- test -->
