@@ -16,17 +16,9 @@ title: "Marianne & Max Weber: Un proyecto digital"
 author: Facultad de Ciencias Políticas y Sociales, Universidad Autónoma del Estado de México
 
 
-# --- List of links in the navigation bar --- #
+# --- List of links in the navigation bar now in data.nav--- #
 
-navbar-links:
-  About: "about"
-  The Projects:
-    - Group 1 - Bibliography: "bibliography"
-    - Group 2 - Timeline: "timeline"
-    - Group 3 - Philosophy: "philosophy"
-    - Group 4 - Global Context: "global"
-    - Group 5 - Interpretation: "interpretations"
-  Credits: "credits"
+
 
 
 # --- Logo --- #
