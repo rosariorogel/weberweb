@@ -44,8 +44,8 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Alexia Chacón García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
 <div style="clear: both;"></div> 
 
-<img src="{{ site.baseurl }}/assets/img/FotoAndreaCruz.jpg" style="float:left;width:200px;padding-right:20px;"> 
-**Andrea Cruz Rodríguez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+<img src="{{ site.baseurl }}/assets/img/FotoAndreaCruz.png" style="float:left;width:200px;padding-right:20px;"> 
+**Andrea Cruz Rodríguez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. Temas de interés: Sociología de Género, Divulgación de la ciencia, Educación.
 <div style="clear: both;"></div> 
 
 <img src="{{ site.baseurl }}/assets/img/FotoJennyferDionisio.jpg" style="float:left;width:200px;padding-right:20px;"> 
@@ -76,8 +76,8 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Tania Ivonne Laos Loyola** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAnaLauraLeón.jpg" style="float:left;width:200px;padding-right:20px;">
-**Ana Laura León Piña** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+<img src="{{ site.baseurl }}/assets/img/FotoAnaLauraLeón.png" style="float:left;width:200px;padding-right:20px;">
+**Ana Laura León Piña** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Comportamiento Social, Historia de hechos Sociales Importantes. "Lo que de verdad es importante en la vida, sale caro. La rebeldía, la libertad, los ideales".
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlejandroLópez.jpg" style="float:left;width:200px;padding-right:20px;">
@@ -100,8 +100,8 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Laura Areli Moralez Flores** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoBrendaRamirez.jpg" style="float:left;width:200px;padding-right:20px;">
-**Brenda Ramírez Palma** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+<img src="{{ site.baseurl }}/assets/img/FotoBrendaRamirez.png" style="float:left;width:200px;padding-right:20px;">
+**Brenda Ramírez Palma** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Me interesan los estudios de género, hechos históricos y los nuevos conocimientos.
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl}}/assets/img/FotoLizethRobles..jpeg" style="float:left;width:200px;padding-right:20px;">
