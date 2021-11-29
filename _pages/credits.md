@@ -5,10 +5,11 @@ subtitle: Las personas que contribuyen en este sitio
 permalink: credits
 ---
 
-##Coordinación
+#Coordinación
 
 <img src="{{ site.baseurl }}/assets/img/FotoRosario.jpg" style="float:left;width:200px;padding-right:20px;">
 **Rosario Rogel-Salazar** Socióloga, Profesora de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoBrianRosenblum.jpg" style="float:left;width:200px;padding-right:20px;">
@@ -19,7 +20,7 @@ permalink: credits
 **Alan Colín-Arce** Estudiante de noveno semestre de Comunicación en la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis temas de interés son la bibliometría, la ciencia abierta y las humanidades digitales.
 <div style="clear: both;"></div>
 
-##Desarrollo de contenidos
+#Desarrollo de contenidos
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizbethHernández.jpg" style="float:left;width:200px;padding-right:20px;">
 **Lizbeth Aguilar Hernández** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
@@ -99,6 +100,7 @@ permalink: credits
 
 <img src="{{ site.baseurl }}/assets/img/FotoBrendaRamirez.jpg" style="float:left;width:200px;padding-right:20px;">
 **Brenda Ramírez Palma** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl}}/assets/img/FotoLizethRobles..jpeg" style="float:left;width:200px;padding-right:20px;">
