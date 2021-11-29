@@ -34,21 +34,21 @@ Playlist de la época de Max Weber
 
 Contiene 8 sesiones que se completan entre 1-2 hrs cada una y un examen final con duración de 1 hora. Pregrado.  
 
-Session 1: Classical Sociological Theory - An Introduction 
+<p>Session 1: Classical Sociological Theory - An Introduction </p>
 
-Session 2: Bernard Mandeville (1670-1733) and Adam Smith (1723-1790) 
+<p>Session 2: Bernard Mandeville (1670-1733) and Adam Smith (1723-1790) </p>
 
-Session 3: Auguste Comte (1798-1857) 
+<p>Session 3: Auguste Comte (1798-1857) </p>
 
-Session 4: Alexis de Tocqueville (1805-1859) 
+<p>Session 4: Alexis de Tocqueville (1805-1859) </p> 
 
-Session 5: Karl Marx (1818-1883) 
+<p>Session 5: Karl Marx (1818-1883) </p>
 
-Session 6: Émile Durkheim (1858-1917) 
+<p>Session 6: Émile Durkheim (1858-1917) </p>
 
-Session 7: Max Weber (1864-1920) 
+<p>Session 7: Max Weber (1864-1920) </p>
 
-Session 8: Norbert Elias (1897-1990) 
+<p>Session 8: Norbert Elias (1897-1990) </p>
 
 Classical Sociological Theory Final Test </td>
 
