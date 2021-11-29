@@ -10,3 +10,47 @@ video sobre la bibliografia de Max y Marianne Weber
 
 Playlist de la época de Max Weber
 <iframe src="https://open.spotify.com/embed/playlist/2wx2sRUtDhqGTObm52KlmA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+<table class="default">
+
+  <tr>
+
+    <th>URL</th>
+
+    <th>Universidad, programa y nivel de estudios</th>
+
+    <th>¿Por qué lo sugerimos?</th>
+
+  </tr>
+
+  <tr>
+
+    <td>https://es.coursera.org/learn/classical-sociological-theory</td>
+
+    <td>Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Heerikhuizen. 
+
+Contiene 8 sesiones que se completan entre 1-2 hrs cada una y un examen final con duración de 1 hora. Pregrado.  
+
+Session 1: Classical Sociological Theory - An Introduction 
+
+Session 2: Bernard Mandeville (1670-1733) and Adam Smith (1723-1790) 
+
+Session 3: Auguste Comte (1798-1857) 
+
+Session 4: Alexis de Tocqueville (1805-1859) 
+
+Session 5: Karl Marx (1818-1883) 
+
+Session 6: Émile Durkheim (1858-1917) 
+
+Session 7: Max Weber (1864-1920) 
+
+Session 8: Norbert Elias (1897-1990) 
+
+Classical Sociological Theory Final Test </td>
+
+    <td>Como nos explica en la pequeña introducción al curso, habla sobre los fundadores de la sociología, economistas, entre otros autores, por lo que podremos tener información sobre la perspectiva de Weber y además conocer más acerca de los diferentes enfoques sociológicos para poder compararlos y poder realizar un mejor análisis.</td>
+
+  </tr>
+</table>
