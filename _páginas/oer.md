@@ -11,6 +11,11 @@ video sobre la bibliografia de Max y Marianne Weber
 Playlist de la época de Max Weber
 <iframe src="https://open.spotify.com/embed/playlist/2wx2sRUtDhqGTObm52KlmA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+### Línea del tiempo sobre las prestaciones teóricas que tuvo Max Weber
+
+Esta línea del tiempo se centra en lo que son y fueron las aportaciones teóricas dadas antes, durante y después del desarrollo de las obras de Weber; porque para entender su pensamiento debemos saber quiénes influyeron en él como pensador y a quiénes logro influir su pensamiento posteriormente
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xzOoOGpL8IoX7Fq_C-woKihyIuV5JtFRPj6fmzW7LCs&font=Rufina-Sintony&lang=es&timenav_position=top&initial_zoom=3&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### MOOCs sobre Weber
 
