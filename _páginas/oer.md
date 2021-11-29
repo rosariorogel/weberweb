@@ -26,7 +26,7 @@ Playlist de la época de Max Weber
 
   <tr>
 
-    <td>https://es.coursera.org/learn/classical-sociological-theory</td>
+    <td>[Classical sociological theory](https://es.coursera.org/learn/classical-sociological-theory)</td>
 
     <td>Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Heerikhuizen. 
 
