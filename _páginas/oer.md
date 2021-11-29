@@ -12,6 +12,8 @@ Playlist de la época de Max Weber
 <iframe src="https://open.spotify.com/embed/playlist/2wx2sRUtDhqGTObm52KlmA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
+### MOOCs sobre Weber
+
 <table class="default">
 
   <tr>
@@ -26,7 +28,7 @@ Playlist de la época de Max Weber
 
   <tr>
 
-    <td>[Classical sociological theory](https://es.coursera.org/learn/classical-sociological-theory)</td>
+    <td><A HREF="https://es.coursera.org/learn/classical-sociological-theory"> Classical sociological theory </A></td>
 
     <td>Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Heerikhuizen. 
 
