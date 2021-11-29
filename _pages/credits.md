@@ -80,7 +80,7 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Ana Laura León Piña** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Comportamiento Social, Historia de hechos Sociales Importantes. "Lo que de verdad es importante en la vida, sale caro. La rebeldía, la libertad, los ideales".
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlejandroLópez.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAlejandroLopez.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alejandro López Alcántara** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
