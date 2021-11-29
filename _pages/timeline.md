@@ -35,4 +35,4 @@ Esta línea del tiempo se centra en lo que son y fueron las aportaciones teóric
 
 Diagrama obtenido de (nombre del libro)
 
-<img src="{{ site.baseurl }}/assets/img/InfografiaWeberClasico.jpg" style="float: left; padding-right: 20px;">
+<img src="{{ site.baseurl }}/assets/img/GenealogiaWeber.png" style="float: left; padding-right: 20px;">
