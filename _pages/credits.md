@@ -80,7 +80,7 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Ana Laura León Piña** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Comportamiento Social, Historia de hechos Sociales Importantes. "Lo que de verdad es importante en la vida, sale caro. La rebeldía, la libertad, los ideales".
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoAlejandroLópez.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAlejandroLópez.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alejandro López Alcántara** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
@@ -96,7 +96,7 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Uriel Montiel Berny** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoLauraAreli.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoAreliMorales.jpg" style="float:left;width:200px;padding-right:20px;">
 **Laura Areli Moralez Flores** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
@@ -104,7 +104,7 @@ ORCID: [0000-0002-0437-7193](https://orcid.org/0000-0002-0437-7193)
 **Brenda Ramírez Palma** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Me interesan los estudios de género, hechos históricos y los nuevos conocimientos.
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl}}/assets/img/FotoLizethRobles..jpeg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl}}/assets/img/FotoLizethRobles.jpeg" style="float:left;width:200px;padding-right:20px;">
 **Lizeth Robles Benitez** Estudiante de la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) Licenciatura en Sociologia. Interesada en derechos humanos, movimientos sociales, multiculturalidad y políticas públicas.
 <div style="clear: both;"></div>
 
