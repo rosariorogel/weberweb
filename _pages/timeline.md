@@ -17,12 +17,6 @@ Para ver la línea del tiempo en otra pestaña, da clic [aquí](https://cdn.knig
  </body>
 </html>
 
----
-layout: page
-title: Líneas de Tiempo
-subtitle: Prestaciones teóricas de Weber & Marianne Weber
-permalink: timeline
----
 
 ### Línea del tiempo sobre las prestaciones teóricas que tuvo Max Weber
 
