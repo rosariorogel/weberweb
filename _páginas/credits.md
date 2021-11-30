@@ -32,11 +32,11 @@ Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 <div style="clear: both;"></div>
 
 ## Desarrollo de contenidos
-
 <img src="{{ site.baseurl }}/assets/img/FotoAlanG.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/) <div style="clear: both;"></div> 
+**Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/)  
 Mis temas de interés: La Sociología Política y Ciencias Políticas.  
 Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1) 
+<div style="clear: both;"></div> 
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizbethHernández.jpg" style="float:left;width:200px;padding-right:20px;">
 **Lizbeth Aguilar Hernández** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/).
