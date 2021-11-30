@@ -33,6 +33,12 @@ Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 
 ## Desarrollo de contenidos
 
+<img src="{{ site.baseurl }}/assets/img/FotoAlanG.jpg" style="float:left;width:200px;padding-right:20px;"> 
+
+**Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+
+<div style="clear: both;"></div> mis temas de interés a futuro son: La Sociología Política, seleccionado nacional de tiro con arco, trilingüe y un doctorado en Ciencias Políticas. 
+
 <img src="{{ site.baseurl }}/assets/img/FotoLizbethHernández.jpg" style="float:left;width:200px;padding-right:20px;">
 **Lizbeth Aguilar Hernández** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
@@ -60,10 +66,6 @@ Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 <img src="{{ site.baseurl }}/assets/img/FotoJennyferDionisio.jpg" style="float:left;width:200px;padding-right:20px;"> 
 **Jennyfer Dionisio Flores** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
 <div style="clear: both;"></div> 
-
-<img src="{{ site.baseurl}}/assets/img/FotoAlanG.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alan Flores Arroyo** Estudiante de la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) Licenciatura en Sociologia.
-<div style="clear: both;"></div>
 
 <img src="{{ site.baseurl}}/assets/img/FotoIsmel.jpg" style="float:left;width:200px;padding-right:20px;">
 **Brayan Ismael Flores Ortega**, estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses de investigación están relacionados con movimientos sociales a nivel micro y la Ciber-sociología. En mi futuro desarrollo profesional me gustaría relacionarme con el trabajo de investigación a la Sociología informática.
