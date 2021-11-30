@@ -35,7 +35,7 @@ Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlanG.jpg" style="float:left;width:200px;padding-right:20px;"> 
 **Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
-<div style="clear: both;"></div> mis temas de interés a futuro son: La Sociología Política, seleccionado nacional de tiro con arco, trilingüe y un doctorado en Ciencias Políticas. 
+<div style="clear: both;"></div> mis temas de interés es  Sociología política y  Ciencias sociales.
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizbethHernández.jpg" style="float:left;width:200px;padding-right:20px;">
 **Lizbeth Aguilar Hernández** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
