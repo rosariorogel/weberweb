@@ -5,7 +5,7 @@ subtitle: Marianne & Max Weber
 permalink: bibliography
 ---
 
-##Video sobre bibliografía de Weber
+## Video sobre bibliografía de Weber
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cp3WA70kZkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Aquí puedes encontrar las referencias bibliográficas (e incluso, en algunos casos, los enlaces web) de libros y documetnos escritos por Marianne y por Max Weber, así como bibliografía acerca de su propuesta teórica. Se trata de un grupo púlico y abierto con contenidos seleccionados, disponible en [Zotero](https://www.zotero.org/groups/4435765/weber_en_la_web_-_uaemex_2021-b/library): 
