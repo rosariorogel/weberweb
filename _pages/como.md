@@ -13,6 +13,9 @@ Por si fuera poco, también te dejamos una herramienta más que se llama [Hypoth
 ### Línea del tiempo
 La línea del tiempo de Weber se realizó por medio de una investigación y recopilación de datos bibliográficos vía web. De la misma manera, retomamos el libro de la bibliografía de Max Weber escrito por Marianne Weber. Una vez que la información fue recopilada se utilizó la plataforma de [Timeline Js](https://timeline.knightlab.com/), donde por medio de hojas de cálculo en Google se van agregando las fechas y los datos.
 
+### Arquitectura teórica
+En este apartado tendrás información mediante una linea del tiempo, donde se encontrara algunos de los principales conceptos teóricos de Max Weber. Las fechas corresponden al año en que se publicaron los libros y algunas de sus ediciones, así como videos y artículos que se pueden consultar para entender mas a fondo estos conceptos. Timeline es la herramienta que se utilizo como principal recurso para crear y organizar los resultados de la investigación previa.
+
 ### Recursos educativos abiertos
 La línea del tiempo está creada a partir de recursos como [Lucid chart](https://www.lucidchart.com/pages/), donde se realizó un borrador con la recopilación de la teoría sociológica de Weber con los aportes que retoma de teóricos anteriores y su influencia en teóricos posteriores. Posterior a este borrador se usó el recurso de [Timeline JS](https://timeline.knightlab.com/) para crear la línea de tiempo en digital añadiendo recursos visuales que te permitan asociar los eventos, autores y épocas de la teoría de Weber.
 
