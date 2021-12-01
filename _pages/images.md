@@ -14,10 +14,12 @@ Esta infografía contiene una breve introducción de las consideraciones y carac
 
 <img src="{{ site.baseurl }}/assets/img/InfografiaWeberClasico.jpg" style="float: left; padding-right: 20px;">
 
+
 #### Infografía sobre Marianne Weber
 Esta infografía ofrece una síntesis de los aportes de Marianne Weber a la sociología y la teoría feminista.
 
 <img src="{{ site.baseurl }}/assets/img/Infografia_MarianneWeber.png" style="float: left; padding-right: 20px;">
+
 
 #### Concepto de dominación
 La dominación es un concepto clave en la comprensión de la teoría Weberiana, en la siguiente infografía se ofrece una breve explicación sobre la conceptualización en la obra de Weber.
