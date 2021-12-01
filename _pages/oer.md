@@ -14,45 +14,23 @@ Esta línea del tiempo se centra en lo que son y fueron las aportaciones teóric
 
 ### MOOCs sobre Weber
 
-<table class="default">
+#### [Classical sociological theory](https://es.coursera.org/learn/classical-sociological-theory)
 
-  <tr>
+Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Heerikhuizen.  Contiene 8 sesiones que se completan entre 1-2 hrs cada una y un examen final con duración de 1 hora. Pregrado. Como nos explica en la pequeña introducción al curso, habla sobre los fundadores de la sociología, economistas, entre otros autores, por lo que podremos tener información sobre la perspectiva de Weber y además conocer más acerca de los diferentes enfoques sociológicos para poder compararlos y poder realizar un mejor análisis. Estos son los temas del curso:
+Session 1: Classical Sociological Theory - An Introduction
 
-    <th>URL</th>
+Session 2: Bernard Mandeville (1670-1733) and Adam Smith (1723-1790)
 
-    <th>Universidad, programa y nivel de estudios</th>
+Session 3: Auguste Comte (1798-1857)
 
-    <th>¿Por qué lo sugerimos?</th>
+Session 4: Alexis de Tocqueville (1805-1859)  
 
-  </tr>
+Session 5: Karl Marx (1818-1883)
 
-  <tr>
+Session 6: Émile Durkheim (1858-1917)
 
-    <td><A HREF="https://es.coursera.org/learn/classical-sociological-theory"> Classical sociological theory </A></td>
+Session 7: Max Weber (1864-1920) 
 
-    <td>Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Heerikhuizen. 
+Session 8: Norbert Elias (1897-1990) 
 
-Contiene 8 sesiones que se completan entre 1-2 hrs cada una y un examen final con duración de 1 hora. Pregrado.  
-
-<p>Session 1: Classical Sociological Theory - An Introduction </p>
-
-<p>Session 2: Bernard Mandeville (1670-1733) and Adam Smith (1723-1790) </p>
-
-<p>Session 3: Auguste Comte (1798-1857) </p>
-
-<p>Session 4: Alexis de Tocqueville (1805-1859) </p> 
-
-<p>Session 5: Karl Marx (1818-1883) </p>
-
-<p>Session 6: Émile Durkheim (1858-1917) </p>
-
-<p>Session 7: Max Weber (1864-1920) </p>
-
-<p>Session 8: Norbert Elias (1897-1990) </p>
-
-Classical Sociological Theory Final Test </td>
-
-    <td>Como nos explica en la pequeña introducción al curso, habla sobre los fundadores de la sociología, economistas, entre otros autores, por lo que podremos tener información sobre la perspectiva de Weber y además conocer más acerca de los diferentes enfoques sociológicos para poder compararlos y poder realizar un mejor análisis.</td>
-
-  </tr>
-</table>
+Classical Sociological Theory Final Test
