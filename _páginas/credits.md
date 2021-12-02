@@ -34,12 +34,12 @@ Twitter: [@Alan__colin](https://twitter.com/Alan__colin)
 ## Desarrollo de contenidos
 <img src="{{ site.baseurl }}/assets/img/FotoAlanG.jpg" style="float:left;width:200px;padding-right:20px;">
 **Alan Flores Arroyo** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/)  
-Mis temas de interés: La Sociología Política y Ciencias Políticas.  
+Mis temas de interés son la Sociología Política y las Ciencias Políticas.  
 Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1) 
 <div style="clear: both;"></div> 
 
 <img src="{{ site.baseurl }}/assets/img/FotoLizbethHernández.jpg" style="float:left;width:200px;padding-right:20px;">
-**Lizbeth Aguilar Hernández** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/).
+**Lizbeth Aguilar Hernández** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Twitter: [@LizHernan](https://twitter.com/LizHernan_)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaMonserrat.jpg" style="float:left;width:200px;padding-right:20px;"> 
@@ -47,11 +47,11 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoRicardoBueno.jpg" style="float:left;width:200px;padding-right:20px;">
-**Ricardo Bueno Jaramillo** Estudiante de Letras Latinoamericanas en la Facultad Humanidades de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses son la crítica lietararia, la investigación y la narrativa.
+**Ricardo Bueno Jaramillo** Estudiante de Letras Latinoamericanas en la Facultad Humanidades de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses son la crítica lietararia, la investigación y la narrativa. Twitter: [@RicardoBuenoJa1](https://twitter.com/RicardoBuenoJa1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoEstefaniaCaamal.jpg" style="float:left;width:200px;padding-right:20px;">
-**Estefanía Caamal Esquivel** Estudiante de Letras Latinoamericanas en la Facultad Humanidades de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses son la crítica lietararia, la investigación y la narrativa.
+**Estefanía Caamal Esquivel** Estudiante de Letras Latinoamericanas en la Facultad Humanidades de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses son la crítica lietararia, la investigación y la narrativa. Twitter: [@EstefanaCaamal1](https://twitter.com/EstefanaCaamal1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlexiaChacon.jpg" style="float:left;width:200px;padding-right:20px;"> 
@@ -84,19 +84,20 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div> 
 
 <img src="{{ site.baseurl}}/assets/img/FotoTaniaIvonneLaos.jpg" style="float:left;width:200px;padding-right:20px;">
-**Tania Ivonne Laos Loyola** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) 
+**Tania Ivonne Laos Loyola** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/). Twitter: [@LaosTania](https://twitter.com/LaosTania)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl}}/assets/img/FotoAnaLauraLeón.png" style="float:left;width:200px;padding-right:20px;">
-**Ana Laura León Piña** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Comportamiento Social, Historia de hechos Sociales Importantes. "Lo que de verdad es importante en la vida, sale caro. La rebeldía, la libertad, los ideales".
+**Ana Laura León Piña** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Temas de interés: Comportamiento Social, Historia de hechos Sociales Importantes. 
+"Lo que de verdad es importante en la vida, sale caro. La rebeldía, la libertad, los ideales".
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlejandroLopez.jpg.jpg" style="float:left;width:200px;padding-right:20px;">
-**Alejandro López Alcántara** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+**Alejandro López Alcántara** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Twitter: [@Alejand48044397](https://twitter.com/Alejand48044397)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/PaolaMartínezB.png" style="float:left;width:200px;padding-right:20px;">
-**Paola Martínez Benítez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México.
+**Paola Martínez Benítez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. Twitter: [@Paolx_Mtz](https://twitter.com/Paolx_Mtz)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpg" style="float:left;width:200px;padding-right:20px;">
@@ -128,5 +129,5 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div> 
 
  <img src="{{ site.baseurl}}/assets/img/FotoKayZepeda.jpg" style="float:left;width:200px;padding-right:20px;">
-**Kay Zepeda Franco** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/) 
+**Kay Zepeda Franco** Estudiante de la licenciatura en Sociologia en la Facultad de Ciencias Politicas y Sociales de la [Universidad Autonoma del Estado de Mexico](https://www.uaemex.mx/). Twitter: [@ZepedaKay](https://twitter.com/ZepedaKay)
 <div style="clear: both;"></div>
