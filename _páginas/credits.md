@@ -96,7 +96,7 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 **Alejandro López Alcántara** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Twitter: [@Alejand48044397](https://twitter.com/Alejand48044397)
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/PaolaMartínezB.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/FotoPaolaMartínez.png" style="float:left;width:200px;padding-right:20px;">
 **Paola Martínez Benítez** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. Twitter: [@Paolx_Mtz](https://twitter.com/Paolx_Mtz)
 <div style="clear: both;"></div>
 
