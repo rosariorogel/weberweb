@@ -51,7 +51,7 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoEstefaniaCaamal.jpg" style="float:left;width:200px;padding-right:20px;">
-**Estefanía Caamal Esquivel** Estudiante de Letras Latinoamericanas en la Facultad Humanidades de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Mis intereses son la crítica lietararia, la investigación y la narrativa. Twitter: [@EstefanaCaamal1](https://twitter.com/EstefanaCaamal1)
+**Estefanía Caamal Esquivel** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. Twitter: [@EstefanaCaamal1](https://twitter.com/EstefanaCaamal1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlexiaChacon.jpg" style="float:left;width:200px;padding-right:20px;"> 
