@@ -41,4 +41,10 @@ Esta infografía presenta el concepto de acción social. Describe cada uno de lo
 <img src="{{ site.baseurl }}/assets/img/Infografia_AccionSocial.png" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
 
+#### Clásicos de la Sociología
+La siguiente infografia reúne en síntesis algunos de los aspectos más destacados de los clásicos de la sociología, Marx, Weber y Durkheim; como su objeto de estudio, metodología y escritos más relevantes.
+
+<img src="{{ site.baseurl }}/assets/img/Infografía_Clásicos.jpeg" style="float: left; padding-right: 20px;">
+<div style="clear:both"></div>
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
