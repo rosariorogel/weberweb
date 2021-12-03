@@ -43,7 +43,7 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaMonserrat.jpg" style="float:left;width:200px;padding-right:20px;"> 
-**Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+**Andrea Monserrat Álvarez Robles** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. Twitter: [@alvarezm_andrea](https://twitter.com/alvarezm_andrea)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoRicardoBueno.jpg" style="float:left;width:200px;padding-right:20px;">
@@ -55,7 +55,7 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoAlexiaChacon.jpg" style="float:left;width:200px;padding-right:20px;"> 
-**Alexia Chacón García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. 
+**Alexia Chacón García** Estudiante de Sociología de la Facultad de Ciencias Políticas y Sociales en la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), México. Twitter: [@AlexiaChaconGa2](https://twitter.com/AlexiaChaconGa2)
 <div style="clear: both;"></div> 
 
 <img src="{{ site.baseurl }}/assets/img/FotoAndreaCruz.png" style="float:left;width:200px;padding-right:20px;"> 
@@ -101,7 +101,7 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoReginaMontalvo.jpg" style="float:left;width:200px;padding-right:20px;">
-**Regina Elizabeth Montalvo González** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
+**Regina Elizabeth Montalvo González** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Twitter: [@ReginaMTV](https://twitter.com/ReginaMTV)
 <div style="clear: both;"></div>
 
 <img src="{{ site.baseurl }}/assets/img/FotoUrielMontiel.jpg" style="float:left;width:200px;padding-right:20px;">
