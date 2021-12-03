@@ -14,8 +14,9 @@ Esta infografía contiene una breve introducción de las consideraciones y carac
 
 <img src="{{ site.baseurl }}/assets/img/InfografiaWeberClasico.jpg" style="float: left; padding-right: 20px;">
 
+<div style="clear:both"></div>
 
-<p>#### Infografía sobre Marianne Weber</p>
+#### Infografía sobre Marianne Weber
 Esta infografía ofrece una síntesis de los aportes de Marianne Weber a la sociología y la teoría feminista.
 
 <img src="{{ site.baseurl }}/assets/img/Infografia_MarianneWeber.png" style="float: left; padding-right: 20px;">
