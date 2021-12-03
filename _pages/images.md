@@ -30,10 +30,14 @@ La dominación es un concepto clave en la comprensión de la teoría Weberiana, 
 <div style="clear:both"></div>
 
 #### Sociología comprensiva
+La siguiente infografía explica la sociología comprensiva de Max Weber y da a conocer de manera breve los conceptos de tipos ideales y tipos de acción, optimizando así el entendimiento del objeto de estudio de su metodología.
+
 <img src="{{ site.baseurl }}/assets/img/Infografia_SociologiaComprensiva.png" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
 
 #### Acción social
+Esta infografía presenta el concepto de acción social. Describe cada uno de los cuatro tipos de acción; como tipos ideales que son, las acciones que identifica Weber no existen en la realidad, pero ayudan metodológicamente a explicar toda acción real posible.
+
 <img src="{{ site.baseurl }}/assets/img/Infografia_AccionSocial.png" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
 
