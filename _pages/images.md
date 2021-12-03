@@ -12,24 +12,24 @@ La realización de los recursos mostrados fue efectuada mediante la plataforma [
 
 Esta infografía contiene una breve introducción de las consideraciones y características para determinar lo que se conoce como clásico, así como las cuestiones que llevaron a convertir a Max Weber en un referente de la sociología clásica. 
 
-<img src="{{ site.baseurl }}/assets/img/InfografiaWeberClasico.jpg" style="float: left; padding-right: 20px;"><br>
+<img src="{{ site.baseurl }}/assets/img/InfografiaWeberClasico.jpg" style="float: left; padding-right: 20px;">
 
 
-#### Infografía sobre Marianne Weber
+<p>#### Infografía sobre Marianne Weber</p>
 Esta infografía ofrece una síntesis de los aportes de Marianne Weber a la sociología y la teoría feminista.
 
-<img src="{{ site.baseurl }}/assets/img/Infografia_MarianneWeber.png" style="float: left; padding-right: 20px;"><br>
+<img src="{{ site.baseurl }}/assets/img/Infografia_MarianneWeber.png" style="float: left; padding-right: 20px;">
 
 
 #### Concepto de dominación
 La dominación es un concepto clave en la comprensión de la teoría Weberiana, en la siguiente infografía se ofrece una breve explicación sobre la conceptualización en la obra de Weber.
 
-<img src="{{ site.baseurl }}/assets/img/Infografia_Dominacion.png" style="float: left; padding-right: 20px;"><br>
+<img src="{{ site.baseurl }}/assets/img/Infografia_Dominacion.png" style="float: left; padding-right: 20px;">
 
 #### Sociología comprensiva
-<img src="{{ site.baseurl }}/assets/img/Infografia_SociologiaComprensiva.png" style="float: left; padding-right: 20px;"><br>
+<img src="{{ site.baseurl }}/assets/img/Infografia_SociologiaComprensiva.png" style="float: left; padding-right: 20px;">
 
 #### Acción social
-<img src="{{ site.baseurl }}/assets/img/Infografia_AccionSocial.png" style="float: left; padding-right: 20px;"><br>
+<img src="{{ site.baseurl }}/assets/img/Infografia_AccionSocial.png" style="float: left; padding-right: 20px;">
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
