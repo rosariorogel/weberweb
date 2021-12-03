@@ -38,4 +38,3 @@ Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Hee
 
 
 #### [Teoría Sociológica Clásica](https://campus.usal.edu.ar/course/index.php?categoryid=121&classId=cb8235f6-3efc-46a8-99bb-acaa5c5bff21&assignmentId=c463cb2b-f32a-4055-a4d1-19476c214c20&submissionId=13caee66-561f-a108-9a17-4724ef1bcf0a)
- (Agregar descripción: Equipo 5)
