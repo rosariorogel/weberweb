@@ -6,8 +6,7 @@ cover-img:
 permalink: theory
 ---
 
-En este encontrarás la información necesaria, ubicada en una linea del tiempo, acerca de los principales aportes teoricos de Max Weber a la sociología. Te ayudará a comprender de manera  simple su arquitectura teórica. 
-
+En este apartado encontrarás la información necesaria, ubicada en una línea del tiempo, acerca de los principales aportes teóricos de Max Weber a la sociología. Te permitirá comprender de manera simple su arquitectura teórica
 
 #### Línea del tiempo sobre la arquitectura de Max Weber
 
