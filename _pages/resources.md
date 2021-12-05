@@ -5,7 +5,7 @@ subtitle:
 permalink: resources
 ---
 
-Aquí puedes encontrar una colección de contenidos web seleccionados acerca de la propuesta teórica de Max Weber. Hemos utilizado Wakelet para ofrecerte una selección de artículos académicos, de divulgación e incluso periodísticos, videos, tweets, podcasts y casi cualquier cosa que puedes localizar en línea sobre Max Weber Y que te puede ayudar en tus clases. Desde aquí puedes acceder a la colección Wakelet de contenidos sobre Max Weber, solo tienes que crear una cuenta gratuita para seguirnos:
+Aquí puedes encontrar una colección de contenidos web selectos acerca de la propuesta teórica de Max Weber. Hemos utilizado Wakelet para ofrecerte una selección de artículos académicos, de divulgación e incluso periodísticos, además de videos, tuits, pódcasts y casi cualquier cosa que puedes localizar en línea sobre Max Weber. En este sitio puedes consultar la colección con los contenidos sobre Max Weber, pero también te invitamos a crear una cuenta gratuita en Wakelet para seguirnos:
 
 <iframe class="wakeletEmbed" width="100%" height="760px" src="https://embed.wakelet.com/wakes/Yxk0TreB1s0gFxpdKWhbQ/horizontal?border=1" style="border: none" allow="autoplay"></iframe><!-- Please only call https://embed-assets.wakelet.com/wakelet-embed.js once per page --><script src="https://embed-assets.wakelet.com/wakelet-embed.js" charset="UTF-8"></script>
 
