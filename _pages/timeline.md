@@ -24,6 +24,6 @@ Para ver la línea del tiempo en otra pestaña, da clic [aquí](https://cdn.knig
 
 ### Árbol genalógico de Max Weber
 
-Aquí se encuentra el árbol genealógico de ambos sociólogos. Este diagrama muestra la relación de ambos como familia, entonces sabrás de los familiares anteriores y posteriores de Max y Marianne. Este diagrama se obtuvo del libro *Max Weber: una biografía, escrito por Marianne Weber*.
+Aquí se encuentra el árbol genealógico de ambos sociólogos. Este diagrama muestra la relación de ambos como familia, entonces sabrás de los familiares anteriores y posteriores de Max y Marianne. Este diagrama se obtuvo del libro *Max Weber: una biografía*, escrito por Marianne Weber.
 
 <img src="{{ site.baseurl }}/assets/img/GenealogiaWeber.png" style="float: left; padding-right: 20px;">
