@@ -6,7 +6,7 @@ permalink: images
 ---
 
 En esta sección se encuentran una serie de infografias que exponen de manera resumida algunos de los conceptos fundamentales de la obra de Max Weber. Además, estas imágenes brindan un acercamiento a las contribuciones y trabajos realizados por Marianne Weber, con la finalidad de resaltar sus aportaciones a la sociología y a la teoría feminista.
-Los recursos mostrados se realizaron mediante la plataforma [Canva](https://www.canva.com/es_419/)
+Los recursos mostrados se realizaron mediante la plataforma [Canva](https://www.canva.com/es_419/).
 
 #### ¿Por qué Max Weber es un clásico?
 
