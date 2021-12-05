@@ -17,7 +17,6 @@ Esta línea del tiempo se centra en las aportaciones teóricas que se presentaro
 #### [Classical sociological theory](https://es.coursera.org/learn/classical-sociological-theory)
 
 Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Heerikhuizen. Contiene 8 sesiones que se completan entre 1-2 hrs cada una y un examen final con duración de 1 hora. El curso se centra en los fundadores de la sociología, por lo que podremos tener información sobre la perspectiva de Weber y además conocer diferentes enfoques sociológicos para poder compararlos y poder realizar un mejor análisis. Estos son los temas del curso:
-
 * Session 1: Classical Sociological Theory - An Introduction
 * Session 2: Bernard Mandeville (1670-1733) and Adam Smith (1723-1790)
 * Session 3: Auguste Comte (1798-1857)
