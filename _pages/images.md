@@ -5,8 +5,8 @@ subtitle: Propuesta y contribuciones teóricas
 permalink: images
 ---
 
-En esta sección se encuentran una serie de imágenes, que a modo de infografias, exponen de manera sintética, algunos de los conceptos fundamentales para la comprensión de la obra de Max Weber, así mismo, brindan un acercamiento a las contribuciones y trabajos realizados por Marianne Weber, con la finalidad de facilitar el proceso de comprensión de la teoría Weberiana.
-La realización de los recursos mostrados fue efectuada mediante la plataforma [Canva](https://www.canva.com/es_419/)
+En esta sección se encuentran una serie de infografias que exponen de manera resumida algunos de los conceptos fundamentales de la obra de Max Weber. Además, estas imágenes brindan un acercamiento a las contribuciones y trabajos realizados por Marianne Weber, con la finalidad de resaltar sus aportaciones a la sociología y a la teoría feminista.
+Los recursos mostrados se realizaron mediante la plataforma [Canva](https://www.canva.com/es_419/)
 
 #### ¿Por qué Max Weber es un clásico?
 
@@ -24,25 +24,25 @@ Esta infografía ofrece una síntesis de los aportes de Marianne Weber a la soci
 <div style="clear:both"></div>
 
 #### Concepto de dominación
-La dominación es un concepto clave en la comprensión de la teoría Weberiana, en la siguiente infografía se ofrece una breve explicación sobre la conceptualización en la obra de Weber.
+La dominación es un concepto clave en la comprensión de la teoría weberiana. En la siguiente infografía se ofrece una breve explicación sobre este concepto en la obra de Weber.
 
 <img src="{{ site.baseurl }}/assets/img/Infografia_Dominacion.png" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
 
 #### Sociología comprensiva
-La siguiente infografía explica la sociología comprensiva de Max Weber y da a conocer de manera breve los conceptos de tipos ideales y tipos de acción, optimizando así el entendimiento del objeto de estudio de su metodología.
+La siguiente infografía explica la sociología comprensiva de Max Weber y da a conocer de manera breve los conceptos de tipos ideales y tipos de acción, lo cual te puede ayudar a entender el objeto de estudio de su metodología.
 
 <img src="{{ site.baseurl }}/assets/img/Infografia_SociologiaComprensiva.png" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
 
 #### Acción social
-Esta infografía presenta el concepto de acción social. Describe cada uno de los cuatro tipos de acción; como tipos ideales que son, las acciones que identifica Weber no existen en la realidad, pero ayudan metodológicamente a explicar toda acción real posible.
+Esta infografía presenta el concepto de acción social y describe cada uno de los cuatro tipos de acción. Como son tipos ideales, las acciones que identifica Weber no existen en la realidad, pero ayudan metodológicamente a explicar toda acción real posible.
 
 <img src="{{ site.baseurl }}/assets/img/Infografia_AccionSocial.png" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
 
 #### Clásicos de la Sociología
-La siguiente infografia reúne en síntesis algunos de los aspectos más destacados de los clásicos de la sociología, Marx, Weber y Durkheim; como su objeto de estudio, metodología y escritos más relevantes.
+La siguiente infografia sintetiza el objeto de estudio, la metodología y los escritos más relevantes de los tres clásicos de la sociología: Marx, Weber y Durkheim.
 
 <img src="{{ site.baseurl }}/assets/img/Infografía_Clásicos.jpeg" style="float: left; padding-right: 20px;">
 <div style="clear:both"></div>
