@@ -17,5 +17,5 @@ Para ver la línea del tiempo  en otra pestaña, da clic [aquí](https://cdn.kni
 
 ### Video de aportes teóricos
 
-En este video elaborado por estudiantes de la Universidad Autónoma del Estado de México se destacan los principales aportes teóricos de Max Weber.
+Este video elaborado por estudiantes de sociología de la Universidad Autónoma del Estado de México destaca los principales aportes teóricos de Max Weber.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ov54J9uEby0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
