@@ -6,7 +6,7 @@ permalink: bibliography
 ---
 
 ## Video sobre la obra de Max y Marianne Weber
-En este video podrás encontrar información acerca de la vida de Max y Marianne Weber. También podrás saber cuáles fueron las aportaciones más relevantes de sus obras y aportaciones teóricas de ambos autores.
+En este video podrás encontrar información acerca de la vida de Max y Marianne Weber. También podrás saber cuáles fueron las aportaciones teóricas más relevantes de las obras de ambos autores.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cp3WA70kZkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bibliografía
