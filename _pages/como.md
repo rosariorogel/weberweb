@@ -40,6 +40,6 @@ Se creó un borrador de la línea del tiempo a partir de [Lucidchart](https://ww
 <img src="{{ site.baseurl }}/assets/img/ComoHicimos_Wakelet.png" style="float:left;width:200px;padding-right:20px;">
 La herramienta que permitió organizar parte del contenido para la página web fue [Wakelet](https://wakelet.com/). Esta herramienta ayuda a organizar y compartir información, es decir, ayuda a la curación de contenido de forma interactiva y colaborativa.
 
-### Flipgrid
+### Videos
 
 Para los videos que desarrollamos utilizamos la herramienta [Flipgrid](https://info.flipgrid.com/), se trata de una aplicación gratuita de Microsoft que permite grabar vídeos cortos vinculados a un tema en el marco de un curso. La persona a cargo de coordinar el curso (el o la profesora) abre el tema y determina dentro de una Grid un proyecto a desarrollar. Esta aplicación se puede vincular fácilmente a diversas plataformas [LMS](http://elearningmasters.galileo.edu/2017/08/09/learning-management-system/), como puede ser Teams, Google Scholar entre otros.
