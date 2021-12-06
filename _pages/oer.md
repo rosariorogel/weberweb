@@ -26,10 +26,9 @@ Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Hee
 * Session 7: Max Weber (1864-1920) 
 * Session 8: Norbert Elias (1897-1990) 
 
-
 #### [Teoría Sociológica Clásica](https://campus.usal.edu.ar/course/index.php?categoryid=121&classId=cb8235f6-3efc-46a8-99bb-acaa5c5bff21&assignmentId=c463cb2b-f32a-4055-a4d1-19476c214c20&submissionId=13caee66-561f-a108-9a17-4724ef1bcf0a)
 
-#### [Classical sociological theory] (https://oyc.yale.edu/sociology/socy-151) 
+#### [Classical sociological theory](https://oyc.yale.edu/sociology/socy-151) 
 
 Este curso es impartido por la Universidad NYU Abu Dhabi y describe el pensamiento social, prestando atención en el contexto social e intelectual, marcos, métodos conceptuales y análisis social, aunque abarca más escritores es a partir de la clase 16 a la clase 21 donde se habla sobre Max Weber.Estos son los temas del curso:
 *Clase 1	Introducción 
@@ -58,13 +57,13 @@ Lección 7	Mill: utilitarismo y libertad
 *Clase 24	Durkheim sobre el suicidio 
 *Clase 25	Durkheim y los hechos sociales 
 
- #### [Classical sociological theory] (https://www.futurelearn.com/courses/what-is-sociology)
+#### [Classical sociological theory](https://www.futurelearn.com/courses/what-is-sociology)
 
 Este MOOC es ofrecido por la Universidad de Newcastle Australia y sirve para dar una introducción a la sociología, conocer su importancia, enfocado hacia los jóvenes y únicamente dura 3 semanas. Estos son sus temas centrales:
 *¿Cómo se puede analizar la sociedad?  
 *¿Y cuáles son algunos de los problemas culturales contemporáneos en la sociedad? 
 
-#### [Classical sociological theory] (https://www.futurelearn.com/courses/what-is-sociology)
+#### [Classical sociological theory](https://www.futurelearn.com/courses/what-is-sociology)
 
 Este MOOC es ofrecido por la Universidad de Ámsterdam y abarca los principios básicos del estudio sociológico, además presenta una perspectiva diferente sobre todo en el sexo y género.Estos son sus temas centrales:
 *¿Qué es la sociología? 
