@@ -5,7 +5,7 @@ subtitle:
 permalink: como
 ---
 
-###Sitio web y alojamiento
+### Sitio web y alojamiento
 
 El sitio web fue creado con el generador de sitios web estáticos de código abierto [Jekyll] (https://jekyllrb.com/); en este caso, se utilizó una versión ligeramente modificada del [tema Beautiful Jekyll] (https://beautifuljekyll.com/).
 
