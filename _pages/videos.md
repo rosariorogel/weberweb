@@ -21,7 +21,7 @@ Se presentan videos que abordan el contexto social, político y cultural de la s
     allowfullscreen
     allow="microphone; camera; display-capture"></iframe>
     
- ### Comentarios a la edición de 2014 de "Economía y Sociedad"
+### Comentarios a la edición de 2014 de "Economía y Sociedad"
  
  Te presentamos diversos videos donde se destacan los aspectos principales de la edición 2014 del libro "Economía y Sociedad" de Max Weber, revisado y editado Francisco Gil Villegas. En esta obra se busca destacar las aportaciones de Marianne Weber a la propuesta weberiana.
  
@@ -35,7 +35,7 @@ Se presentan videos que abordan el contexto social, político y cultural de la s
     allowfullscreen
     allow="microphone; camera; display-capture"></iframe>
     
- ### La teoría weberiana según George Ritzer
+### La teoría weberiana según George Ritzer
  
  Te presentamos diversos videos donde se resumen el Capítulo 7 del libro "Teoría Sociológica Clásica", donde George Ritzer resumen las aportaciones de Max Weber a la teoría social.
  
