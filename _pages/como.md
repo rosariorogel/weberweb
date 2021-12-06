@@ -21,7 +21,7 @@ La linea del tiempo de este apartado contiene algunos de los principales concept
 
 ### Infografías
 <img src="{{ site.baseurl }}/assets/img/ComoHicimos_Canva.png" style="float:left;width:200px;padding-right:20px;">
-Creamos a través de la plataforma Canva una serie de infografías como recurso visual para exponer de manera breve los conceptos más relevantes de la obra de Weber y sus aportaciones a la Sociología.
+Creamos a través de la plataforma [Canva](https://www.Canva.com) una serie de infografías como recurso visual para exponer de manera breve los conceptos más relevantes de la obra de Weber y sus aportaciones a la Sociología.
 
 ### Recursos educativos abiertos
 <img src="{{ site.baseurl }}/assets/img/ComoHicimos_PrestacionesTeoricas.png" style="float:left;width:200px;padding-right:20px;">
