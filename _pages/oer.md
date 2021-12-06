@@ -28,7 +28,7 @@ Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Hee
 
 #### [Teoría Sociológica Clásica](https://campus.usal.edu.ar/course/index.php?categoryid=121&classId=cb8235f6-3efc-46a8-99bb-acaa5c5bff21&assignmentId=c463cb2b-f32a-4055-a4d1-19476c214c20&submissionId=13caee66-561f-a108-9a17-4724ef1bcf0a)
 
-Este curso es impartido por la Universidad del Salvador, en Argentina. Se trata de n curso sobre Teoría Sociológica Clásica que está disponible en abierto. Aunque te tienes que registrar para poder descargar los contenidos.
+Este curso es impartido por la Universidad del Salvador, en Argentina. Se trata de un curso sobre Teoría Sociológica Clásica que está disponible en abierto. Aunque te tienes que registrar para poder descargar los contenidos, se envían un correo de confirmación y sigues las instrucciones para quedar matriculado y acceder al curso.
 
 #### [Classical sociological theory](https://oyc.yale.edu/sociology/socy-151) 
 
