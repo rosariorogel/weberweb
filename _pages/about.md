@@ -11,13 +11,14 @@ Todo Weber en Web es un proyecto desarrollado por estudiantes de Sociología de 
 
 El objetivo de este proyecto es recopilar información de calidad disponible en Internet acerca de la propuesta teórica de [Max Weber](https://es.wikipedia.org/wiki/Max_Weber), considerado uno de los fundadores del estudio moderno de la sociología, la administración pública, la ciencia política y el derecho. Y, al mismo tiempo, busca reconocer las importantes aportaciones teóricas de [Marianne Weber](https://es.wikipedia.org/wiki/Marianne_Weber), connotada feminista de su tiempo y cuya labor fue fundamental para dar a conocer póstumamente la propuesta teórica de Max Weber. Destacar la labor de Marianne Weber es una forma de reconocer que las mujeres siempre han hecho contribuciones importantes a las diversas disciplinas científicas, y que dichas contribuciones se han desarrollado, casi siempre, fuera del registro de la historia y de la institucionalización de la ciencia.
 
-El sitio web está conformado por 5 secciones relacionadas a la obra de Max y Marianne Weber: 
+El sitio web está conformado por seis secciones relacionadas a la obra de Max y Marianne Weber: 
 
 * La sección 1 contiene una bibliografía selecta de textos escritos por estos autores y de otros textos académicos que analizan la amplia obra del matrimonio Weber.  
 * La sección 2 se conforma por dos líneas del tiempo acerca de la vida de Max y Marianne Weber. 
 * La sección 3 presenta infografías que explican, entre otros temas, las razones por las que Max Weber es un clásico de la sociología y las aportaciones de Marianne Weber a la teoría feminista. 
 * La sección 4 contiene explicaciones gráficas de los principales conceptos de la teoría de Max Weber, tales como: poder, dominación, burocracia, tipos ideales y sociología comprensiva. 
 * La sección 5 explica los principales vínculos que tuvo la propuesta weberiana con otros autores y cuál fue la influencia de las ideas de Max Weber en ellos. 
+* La sección 6 contiene algunos videos donde se presenta el conexto histórico de la propuesta weberiana, así como algunos comentarios a la edición de 2014 de "Economía y Sociedad" y al resumen que ofrece Gerge Ritzter a la obra de Weber en su libro "Teoría Sociológica Clásica".
 
 Este sitio es un recurso educativo abierto. Por lo tanto, todos los contenidos tienen una licencia abierta CC-BY, que permite la redistribución, modificación y adaptación de toda la información disponible en el sitio, siempre que se mantenga la atribución al proyecto. 
 
