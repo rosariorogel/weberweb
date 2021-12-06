@@ -78,7 +78,7 @@ Twitter: [@alanfloresarro1](https://twitter.com/alanfloresarro1)
 **Regina Elizabeth Montalvo González** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). Twitter: [@ReginaMTV](https://twitter.com/ReginaMTV)
 <div style="clear: both;"></div>
 
-<img src="{{ site.baseurl }}/assets/img/FotoUrielMontiel.jpg" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/Placeholder_person.png" style="float:left;width:200px;padding-right:20px;">
 **Uriel Montiel Berny** Estudiante de Sociologia de la Facultad de Ciencias Políticas y Sociales de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/). 
 <div style="clear: both;"></div>
 
