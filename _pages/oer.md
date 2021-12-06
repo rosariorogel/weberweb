@@ -28,34 +28,36 @@ Es ofrecido por la Universidad de Ámsterdam e impartido por el Dr. Bart van Hee
 
 #### [Teoría Sociológica Clásica](https://campus.usal.edu.ar/course/index.php?categoryid=121&classId=cb8235f6-3efc-46a8-99bb-acaa5c5bff21&assignmentId=c463cb2b-f32a-4055-a4d1-19476c214c20&submissionId=13caee66-561f-a108-9a17-4724ef1bcf0a)
 
+Este curso es impartido por la Universidad del Salvador, en Argentina. Se trata de n curso sobre Teoría Sociológica Clásica que está disponible en abierto. Aunque te tienes que registrar para poder descargar los contenidos.
+
 #### [Classical sociological theory](https://oyc.yale.edu/sociology/socy-151) 
 
 Este curso es impartido por la Universidad NYU Abu Dhabi y describe el pensamiento social, prestando atención en el contexto social e intelectual, marcos, métodos conceptuales y análisis social, aunque abarca más escritores es a partir de la clase 16 a la clase 21 donde se habla sobre Max Weber.Estos son los temas del curso:
-* Clase 1	Introducción 
-* Clase 2	Hobbes: autoridad, derechos humanos y orden social 
-* Lección 3	Locke: igualdad, libertad, propiedad y derecho a disentir 
-* Clase 4	Montesquieu: la división de poderes 
-* Clase 5	Rousseau: soberanía popular y voluntad general 
-* Lección 6	Rousseau sobre el estado de la naturaleza y la educación 
-* Lección 7	Mill: utilitarismo y libertad 
-* Clase 8	Smith: la mano invisible 
-* Clase 9	La teoría de la alienación de Marx 
-* Clase 10	La teoría de Marx del materialismo histórico 
-* Clase 11	Teoría del materialismo histórico de Marx (cont.) 
-* Clase 12	La teoría de la historia de Marx 
-* Clase 13	Teoría de clase y explotación de Marx 
-* Clase 14	Nietzsche sobre poder, conocimiento y moralidad 
-* Clase 15	Freud sobre la sexualidad y la civilización 
-* Clase 16	Weber sobre el protestantismo y el capitalismo 
-* Clase 17	Fundamentos conceptuales de la teoría de la dominación de Weber 
-* Clase 18	Weber sobre la autoridad tradicional 
-* Clase 19	Weber sobre la autoridad carismática 
-* Clase 20	Weber sobre autoridad legal-racional 
-* Clase 21	Teoría de la clase de Weber 
-* Clase 22	Durkheim y tipos de solidaridad social 
-* Clase 23	Teoría de la anomia de Durkheim 
-* Clase 24	Durkheim sobre el suicidio 
-* Clase 25	Durkheim y los hechos sociales 
+* Clase 1.	Introducción 
+* Clase 2.	Hobbes: autoridad, derechos humanos y orden social 
+* Clase 3.	Locke: igualdad, libertad, propiedad y derecho a disentir 
+* Clase 4.	Montesquieu: la división de poderes 
+* Clase 5.	Rousseau: soberanía popular y voluntad general 
+* Clase 6.	Rousseau sobre el estado de la naturaleza y la educación 
+* Clase 7.	Mill: utilitarismo y libertad 
+* Clase 8.	Smith: la mano invisible 
+* Clase 9.	La teoría de la alienación de Marx 
+* Clase 10.	La teoría de Marx del materialismo histórico 
+* Clase 11.	Teoría del materialismo histórico de Marx (cont.) 
+* Clase 12.	La teoría de la historia de Marx 
+* Clase 13.	Teoría de clase y explotación de Marx 
+* Clase 14.	Nietzsche sobre poder, conocimiento y moralidad 
+* Clase 15.	Freud sobre la sexualidad y la civilización 
+* Clase 16.	Weber sobre el protestantismo y el capitalismo 
+* Clase 17.	Fundamentos conceptuales de la teoría de la dominación de Weber 
+* Clase 18.	Weber sobre la autoridad tradicional 
+* Clase 19.	Weber sobre la autoridad carismática 
+* Clase 20.	Weber sobre autoridad legal-racional 
+* Clase 21.	Teoría de la clase de Weber 
+* Clase 22.	Durkheim y tipos de solidaridad social 
+* Clase 23.	Teoría de la anomia de Durkheim 
+* Clase 24.	Durkheim sobre el suicidio 
+* Clase 25.	Durkheim y los hechos sociales 
 
 #### [Classical sociological theory](https://www.futurelearn.com/courses/what-is-sociology)
 
