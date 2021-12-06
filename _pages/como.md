@@ -19,6 +19,10 @@ La línea del tiempo de Weber se realizó por medio de una investigación y reco
 ### Arquitectura teórica
 La linea del tiempo de este apartado contiene algunos de los principales conceptos teóricos de Max Weber. Las fechas corresponden al año en que se publicaron los libros y algunas de sus ediciones, así como videos y artículos que se pueden consultar para entender más a fondo estos conceptos. Se usó [Timeline JS](https://timeline.knightlab.com/) para crear y organizar los resultados de la investigación previa.
 
+### Infografías
+<img src="{{ site.baseurl }}/assets/img/ComoHicimos_Canva.png" style="float:left;width:200px;padding-right:20px;">
+Creamos a través de la plataforma Canva una serie de infografías como recurso visual para exponer de manera breve los conceptos más relevantes de la obra de Weber y sus aportaciones a la Sociología.
+
 ### Recursos educativos abiertos
 <img src="{{ site.baseurl }}/assets/img/ComoHicimos_PrestacionesTeoricas.png" style="float:left;width:200px;padding-right:20px;">
 Se creó un borrador de la línea del tiempo a partir de [Lucidchart](https://www.lucidchart.com/pages/) con la recopilación de la teoría sociológica de Weber, los aportes que retoma de teóricos anteriores y su influencia en teóricos posteriores. Después se usó [Timeline JS](https://timeline.knightlab.com/) para crear la línea de tiempo con recursos visuales que te permitirán asociar los eventos, autores y épocas de la teoría de Weber.
