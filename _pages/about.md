@@ -7,7 +7,7 @@ permalink: about
 
 # Este es un sitio web dedicado a Marianne y Max Weber
 
-Todo Weber en Web es un proyecto desarrollado por estudiantes de Sociología de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso "Fundadores de la Sociología: Max Weber", impartido en la Facultad de Ciencias Políticas y Sociales.
+Todo Weber en Web es un proyecto desarrollado por [estudiantes de Sociología](https://rosariorogel.net/luhmann/credits) de la [Universidad Autónoma del Estado de México](https://www.uaemex.mx/), en el marco del curso "Fundadores de la Sociología: Max Weber", impartido en la Facultad de Ciencias Políticas y Sociales.
 
 El objetivo de este proyecto es recopilar información de calidad disponible en Internet acerca de la propuesta teórica de [Max Weber](https://es.wikipedia.org/wiki/Max_Weber), considerado uno de los fundadores del estudio moderno de la sociología, la administración pública, la ciencia política y el derecho. Y, al mismo tiempo, busca reconocer las importantes aportaciones teóricas de [Marianne Weber](https://es.wikipedia.org/wiki/Marianne_Weber), connotada feminista de su tiempo y cuya labor fue fundamental para dar a conocer póstumamente la propuesta teórica de Max Weber. Destacar la labor de Marianne Weber es una forma de reconocer que las mujeres siempre han hecho contribuciones importantes a las diversas disciplinas científicas, y que dichas contribuciones se han desarrollado, casi siempre, fuera del registro de la historia y de la institucionalización de la ciencia.
 
