@@ -12,7 +12,7 @@ El sitio web fue creado con el generador de sitios web estáticos de código abi
 
 Los sitios web estáticos –como los creados por Jekyll– no requieren una base de datos o una aplicación para mostrar el sitio web, son simplemente archivos html simples que se pueden almacenar en cualquier servidor web, lo que los convierte en sitios rápidos y seguros que también son más fáciles de cuidar y preservar a lo largo del tiempo.
 
-<img src="{{ site.baseurl }}/assets/img/Mark Down.png" style="float:left;width:200px;padding-right:20px;">
+<img src="{{ site.baseurl }}/assets/img/Mark Down.jpeg" style="float:left;width:200px;padding-right:20px;">
 Como ocurre con la mayoría de los sitios web creados con Jekyll, el contenido se desarrolló utilizando [Markdown](https://www.markdownguide.org/), un lenguaje de marcado ligero para crear texto formateado utilizando un editor de texto sin formato. El sitio web está alojado en la plataforma [Github](https://github.com/) sin costo. Todas las personas que participaron del desarrollo de este sitio web, tuvieron acceso a los archivos de Github y crearon el sitio de forma colaborativa desde ahí.
 
 ### Bibliografía
